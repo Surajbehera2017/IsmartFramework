@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="framework_DONOTMODIFY"/>
+	<classpathentry kind="src" path="TestArtifacts"/>
+	<classpathentry kind="src" path="ALMs"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/AutoItX4Java.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/dsn.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/extentreports-java-2.10.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jacob.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jai_core.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jcommander.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jd.ide.eclipse.feature_1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jd.ide.eclipse.plugin_1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jmf.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/monte-cc.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/monte-repack-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/pgslookandfeel-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/testng.jar"/>
+	<classpathentry kind="lib" path="E:/RequiredJArs/RequiredJArs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="//172.25.125.36/Common Share/PDFBoxJar/pdfbox-app-1.8.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
